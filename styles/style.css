@@ -1,0 +1,21 @@
+#maincanvas
+	{
+		margin-left:400px;
+		margin-top:50px;
+		border-radius: 10px;
+	}
+
+#maincanvas:hover
+{
+	cursor:pointer;
+}
+#logo
+{
+	top:0px;
+	margin-left:327px;
+	height:100px;
+}
+body
+{
+	background-color: black;
+}
